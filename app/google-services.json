@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192922389593",
+    "firebase_url": "https://pastel-50699-default-rtdb.firebaseio.com",
+    "project_id": "pastel-50699",
+    "storage_bucket": "pastel-50699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192922389593:android:c05e9c36916324bf94b548",
+        "android_client_info": {
+          "package_name": "com.catalystmedia.pastel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192922389593-7mgoar8bi7nrldbuejvjf88mag7g607s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5bnpO4pKRpIkwUamsCGh5p8Qli2NzwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192922389593-7mgoar8bi7nrldbuejvjf88mag7g607s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
